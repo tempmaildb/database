@@ -16,13 +16,14 @@ https://tempmaildb.com/
 Our API: \
 https://api.tempmaildb.com/
 
+`⚠️ Site is temporary unavailable`
+
 ### Updating
 This repository updates every 24h automatically
 
 ### Remove listing
-If you found your domain in our blocklist and want to remove listing, please contact us
-using form on our site: \
-https://tempmaildb.com/unlist
+If you found your domain in our blocklist and want to remove listing, please open an issue in this
+repository and describe why we should remove your domain. Also we may ask to prove domain ownership.
 
 ### Copyright
 This project is maintained by DpkgSoft International Limited company. If you want to check our
