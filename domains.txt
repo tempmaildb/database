@@ -53412,6 +53412,7 @@ mechanicalbed.site
 mechanicswildcat.site
 mecnet.com
 meconstruct.com
+medanmacao.site
 medblog.com
 medcenter-medlajn-servis.ru
 meddiabet.ru
@@ -64639,6 +64640,7 @@ vieserli.cf
 vieserli.ga
 vieserli.gq
 vieserli.ml
+vietbacsolar.com
 vietcode.com
 vietfashop.com
 vietfood.xyz
